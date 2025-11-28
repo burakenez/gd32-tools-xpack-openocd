@@ -2,7 +2,7 @@
 This repository is created for xPack OpenOCD GD Version to be added as submodule to gd32-cmake repositories.
 
 **OpenOCD** version is **_xpack-openocd-0.11.0-3_**.
-	- Extracted from **Embedded Builder** **_V1.5.2.30854_**.
+	- Extracted from **Embedded Builder** **_V1.5.5_Rel_**.
 	- I highly suggest <ins>not to use</ins> another version of OpenOCD because of lack of GD32 MCU implementation.
 
 # The xPack OpenOCD
